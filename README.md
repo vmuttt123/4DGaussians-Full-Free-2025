@@ -30,6 +30,7 @@
 
 ## Usage Examples 📊
 
+![image](https://github.com/user-attachments/assets/6c0b981f-bc92-4669-8e6e-285e14f3788d)
 
 
 
